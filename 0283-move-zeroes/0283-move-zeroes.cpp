@@ -1,23 +1,22 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        // brute force approach 
-        // step 1 : create a temp array
-        vector<int> temp;
-        // adding the non zero elements into the temp array
-        for(int i = 0; i<nums.size();i++){
-            if(nums[i] != 0){
-                temp.push_back(nums[i]);
+        int n = nums.size();
+        // optimal approach
+        // step 1 : pointer j
+        int j = -1;
+        for(int i = 0; i<n; i++){
+            if(nums[i] == 0){
+                j = i;
+                break;
             }
         }
-        int nz = temp.size();
-        for(int i = 0; i<nz; i++){
-            nums[i] = temp[i];
+        if(j == -1) return;
+        for(int i = j+1; i<n; i++){
+            if(nums[i] != 0){
+                swap(nums[i], nums[j]);
+                j++;
+            }
         }
-        for(int i = nz; i<nums.size(); i++){
-            nums[i] = 0;
-        }
-
-        
     }
 };
