@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
