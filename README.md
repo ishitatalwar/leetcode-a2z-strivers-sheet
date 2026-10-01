@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0560-subarray-sum-equals-k) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
