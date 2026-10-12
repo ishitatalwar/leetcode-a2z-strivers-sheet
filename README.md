@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0704-binary-search) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
