@@ -115,4 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ishitatalwar/leetcode-a2z-strivers-sheet/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
